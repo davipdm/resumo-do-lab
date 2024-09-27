@@ -4,7 +4,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 Estou utilizando Azure CLI para criar minha vm.
 
 # 0. Instalar o Azure CLI
-Se ainda não tiver o Azure CLI instalado, você pode fazer o download e a instalação seguindo as instruções na página oficial: Azure CLI Installation. https://learn.microsoft.com/pt-br/cli/azure/install-azure-cli?plain=1
+Se ainda não tiver o Azure CLI instalado, você pode fazer o download e a instalação seguindo as instruções na página oficial: Azure CLI Installation. https://learn.microsoft.com/pt-br/cli/azure/install-azure-cli
 
 # 1. Criar grupo de recursos
 az group create --name "rg-Lab01" --location eastus
